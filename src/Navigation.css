@@ -1,0 +1,15 @@
+.Navigation-NavLink {
+    padding: 5px;
+    color: grey;
+    margin: 10px
+}
+
+.Navigation-NavLink:hover {
+    color:white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.activeTab {
+    color: white;
+}

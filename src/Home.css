@@ -1,0 +1,17 @@
+.Home {
+    margin-top: 100px;
+}
+
+.Home h1 {
+    margin-bottom: 20px;
+}
+
+.Home p {
+    font-weight: lighter;
+    font-size: large;
+}
+
+.Home button {
+    margin-left: 5px;
+    margin-right: 5px;
+}

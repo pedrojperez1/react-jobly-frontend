@@ -1,0 +1,10 @@
+.CompanyCard {
+    text-align: left;
+    margin: 10px 0px 10px 0px;
+    cursor: pointer;
+}
+
+.CompanyCard :hover {
+    border-width: 3px;
+    color:#0275d8;
+}
